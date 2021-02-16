@@ -7,3 +7,6 @@ under Process Model and Parametric Uncertainty, 2021, submitted for publication 
 
 
 *Software needed in the workflow*: [Jupyter Notebook](https://jupyter.org), [Anaconda](https://www.anaconda.com)
+
+
+https://zenodo.org/badge/322851106.svg
